@@ -1,0 +1,58 @@
+{
+  "GROWTH": 0.05,
+  "GROSS_MARGINS": [
+    0.36,
+    0.38,
+    0.4,
+    0.42,
+    0.44
+  ],
+  "SGA_RATIOS": [
+    0.0874879382438083,
+    0.0874879382438083,
+    0.0874879382438083,
+    0.0874879382438083,
+    0.0874879382438083
+  ],
+  "RD_RATIOS": [
+    0.25,
+    0.24,
+    0.23,
+    0.22,
+    0.21
+  ],
+  "DEPRECIATION_RATE": 0.10204526912933766,
+  "INVENTORY_DAYS": 122.99350310342828,
+  "FLOOR_PLAN_RATIO": 0.0,
+  "IMPAIRMENT": 0.0,
+  "CAPEX": 17672.0,
+  "TAX_RATE": 0.21,
+  "OTHER_WC_RATE": 0.07263542277637977,
+  "MIN_CASH": 5000.0,
+  "REVOLVER_LIMIT": 0.0,
+  "REVOLVER_RATE": 0.06,
+  "REPAYMENT": 2499.0,
+  "BUYBACK": 0.0,
+  "FLOOR_PLAN_RATE": 0.0,
+  "DEBT_RATE": 0.04,
+  "COST_OF_EQUITY": 0.12,
+  "TERMINAL_GROWTH": 0.025,
+  "SHARES": 4994.0,
+  "COMPARISON_SHARES": 5250.0,
+  "MARKET_PRICE": 127.39,
+  "NCI": 12079.0,
+  "OPENING": {
+    "revenue": 52853.0,
+    "inventory": 11618.0,
+    "ppe": 105414.0,
+    "other_assets": 80132.0,
+    "cash": 14265.0,
+    "floor_plan": 0.0,
+    "debt": 46585.0,
+    "other_liabilities": 38484.0,
+    "equity": 114281.0,
+    "nci": 12079.0,
+    "revolver": 0.0,
+    "investments": 23151.0
+  }
+}
